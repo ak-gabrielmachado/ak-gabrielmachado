@@ -1,11 +1,16 @@
 ## Hi! I'm Gabriel
 
-🎓 I'm 21 years old and I'm a Computer Science student.<br/>
-📌 I live in Santa Catarina, Brazil.<br/>
-💻 I work as back-end developer for 2 years.<br/>
-👨‍💻 I started my career in tech field in 2017 working as an IT Technician<br/>
-⌨️ I work most of the time using PHP and Javascript
-<br/><br/>
+<div>
+  <div style="float: left; display: inline_block;">
+    🎓 I'm 21 years old and I'm a Computer Science student.<br/>
+    📌 I live in Santa Catarina, Brazil.<br/>
+    💻 I work as back-end developer for 2 years.<br/>
+    👨‍💻 I started my career in tech field in 2017 working as an IT Technician<br/>
+    ⌨️ I work most of the time using PHP and Javascript
+  </div>
+</div>
+
+<br/>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -16,5 +21,5 @@
 <a href="https://www.linkedin.com/in/ak-gabrielmachado/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"/>
 </a>
-
-<img style="width: 400px; height: 300px;" src="https://static.wikia.nocookie.net/naruto/images/4/40/Naruto_fazendo_pose_nice_guy.png/revision/latest?cb=20160622145526&path-prefix=pt-br"/>
+<br/>
+<img style="width: 190px; height: 190px;" src="https://c.tenor.com/-SIywyATmagAAAAC/naruto-thumbsup.gif"/>
