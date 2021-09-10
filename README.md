@@ -17,4 +17,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"/>
 </a>
 
-<img style="width: 500px; height: 500px;" src="https://static.wikia.nocookie.net/naruto/images/4/40/Naruto_fazendo_pose_nice_guy.png/revision/latest?cb=20160622145526&path-prefix=pt-br"/>
+<img style="width: 400px; height: 300px;" src="https://static.wikia.nocookie.net/naruto/images/4/40/Naruto_fazendo_pose_nice_guy.png/revision/latest?cb=20160622145526&path-prefix=pt-br"/>
