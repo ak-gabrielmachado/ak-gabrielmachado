@@ -1,4 +1,4 @@
-## Hi! I'm Gabriel
+## Hi! I'm Gabriel 👋
 
 <div>
   <div style="float: left; display: inline_block;">
