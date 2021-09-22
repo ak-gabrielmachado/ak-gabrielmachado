@@ -22,5 +22,3 @@
 <a href="https://www.linkedin.com/in/ak-gabrielmachado/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail"/>
 </a>
-<br/><br/>
-<img style="width: 190px; height: 190px;" src="https://c.tenor.com/-SIywyATmagAAAAC/naruto-thumbsup.gif"/>
